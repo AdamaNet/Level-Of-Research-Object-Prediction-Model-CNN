@@ -21,7 +21,7 @@ This project is a deep learning model based on multimodal data, designed specifi
 1. Clone the repository locally:
 
 ```bash
-git clone https://github.com/qwerfgb/Level-Of-Research-Object-Prediction-Model-CNN
+git clone https://github.com/qwerfgb/Level-Of-Research-Object-Prediction-Model-CNN.git
 cd Level-Of-Research-Object-Prediction-Model-CNN
 ```
 
